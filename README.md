@@ -1,1 +1,1 @@
-React.js + TailwindCSS blog
+BLOG made with React.js + TailwindCSS 
